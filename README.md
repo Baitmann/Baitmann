@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there! 👋
 
-<!--
-**Baitmann/Baitmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This profiles main purpose is to track my learning progress and activity,
+towards my journey of learning to code and develop,
+I am mostly self taught in this field,
+but I do have plans to eventually get a proper education from this field.
 
-Here are some ideas to get you started:
+I can be contacted through 
+-  email:"baitman01m@gmail.com"
+-  discord:"baitmann_"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages I type in proficiency order are
+-  English
+-  Finnish
+-  German
+-  Swedish
+
+Languages I speak in proficiency order are
+-  Finnish
+-  English
+-  German(WiP)
+
+My personality type is INTP-A
